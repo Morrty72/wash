@@ -8,6 +8,7 @@
     src: url(fonts/perfo_[allfont.ru].ttf);
 }
 body{
+    width: 1460px;
      font-family: "m";
 }
 .cont1460{
