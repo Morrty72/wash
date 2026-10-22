@@ -261,6 +261,8 @@ color: green;
 .map{
 display: flex;
 margin-left: 170px;
+    wight: 300;
+    heigh: 300;
 }
 .if{
    width: 920px;
