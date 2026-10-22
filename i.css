@@ -331,3 +331,6 @@ canvas{
 .canvas{
 weigh: 1460;
 }
+.particles-js-canvas-el{
+    max-wight: 1460;
+}
